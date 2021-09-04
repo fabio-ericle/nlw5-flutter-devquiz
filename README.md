@@ -1,6 +1,6 @@
-# aplicacao_nlw5
+# Aplicacao NLW 5
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
